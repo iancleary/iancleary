@@ -1,6 +1,5 @@
 ### Time appropriate greetings 👋, my name is Ian Cleary.
 
-- 🔭 I’m currently experimenting with [fastrf](https://fastrf.iancleary.me/), a Python web server for Radio Frequency Design.
 - 🌱 I’m currently learning Vue.js, Python, Web Development, and professionally learning RF Systems Design.
 - 👯 I’m looking to collaborate on RF Design tools, Linux Desktop Configuration.
 - 🤔 I’m looking for help with balance.
