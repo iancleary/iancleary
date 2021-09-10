@@ -7,3 +7,8 @@
 - 📫 How to reach me: Email me at [icancclearynow@gmail.com](mailto:icancclearynow@gmail.com).
 - 😄 Pronouns: https://pronoun.is/he.
 - ⚡ Fun fact: I play Underwater Hockey! Checkout a great YouTube video: "[It's Hockey, But Underwater](https://www.youtube.com/watch?v=SAukrpTEvZA)".
+
+### ✍ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
