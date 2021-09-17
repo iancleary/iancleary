@@ -1,7 +1,5 @@
-### Time appropriate greetings 👋, my name is Ian Cleary.
-
-- 🌱 I’m currently learning Terraform, Ansible, Python, Web Development, and professionally learning RF Systems Design.
-- 👯 I’m looking to collaborate on RF Design tools, Linux Server/Desktop Configuration.
+### Time appropriate greetings 👋, my name is Ian Cleary
+- 🌱 I’m currently learning Elementary OS Application Development.
 - 🤔 I’m looking for the soul in the machine.
 - 💬 I'm blogging at https://icancclearynow.com.
 - 📫 How to reach me: Email me at [icancclearynow@gmail.com](mailto:icancclearynow@gmail.com).
