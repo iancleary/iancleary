@@ -1,6 +1,5 @@
 ### Time appropriate greetings 👋, my name is Ian Cleary
-- 🌱 I’m currently learning Elementary OS Application Development.
-- 🤔 I’m looking for the soul in the machine.
+- 🌱 I’m actively eating less meat.
 - 💬 I'm blogging at https://icancclearynow.com.
 - 📫 How to reach me: Email me at [contact@iancleary.me](mailto:contact@iancleary.me).
 - 😄 Pronouns: https://pronoun.is/he.
