@@ -1,6 +1,6 @@
 ### Time appropriate greetings 👋, my name is Ian Cleary
 - 🌱 I’m actively eating less meat.
-- 💬 I'm blogging at https://icancclearynow.com.
+- 💬 I'm blogging at https://iancleary.me.
 - 📫 How to reach me: Email me at [contact@iancleary.me](mailto:contact@iancleary.me).
 - 😄 Pronouns: https://pronoun.is/he.
 - ⚡ Fun fact: I play Underwater Hockey! Checkout a great YouTube video: "[It's Hockey, But Underwater](https://www.youtube.com/watch?v=SAukrpTEvZA)".
