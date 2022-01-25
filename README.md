@@ -8,9 +8,9 @@
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Self Hosted Mail Server Lessons Learned](https://iancleary.me/blog/self-hosted-mail-server-lessons-learned)
-- [Accessibility Shortcut on iOS and Reduce White Point](https://iancleary.me/blog/accessibility-shortcut-on-ios-and-reduce-white-point)
-- [Fore Into Development on Windows](https://iancleary.me/blog/fore-into-development-on-windows)
-- [Pre-commit hooks in Python](https://iancleary.me/blog/pre-commit-hooks-in-python)
-- [Ubuntu 20.04 Virtual Machine with Hyper-V](https://iancleary.me/blog/ubuntu-20-04-virtual-machine-with-hyper-v)
+- [Accessibility Shortcut on iOS and Reduce White Point](https://www.iancleary.me/accessibility-shortcut-on-ios-and-reduce-white-point)
+- [Fore Into Development on Windows](https://www.iancleary.me/fore-into-development-on-windows)
+- [Pre-commit hooks in Python](https://www.iancleary.me/pre-commit-hooks-in-python)
+- [Ubuntu 20.04 Virtual Machine with Hyper-V](https://www.iancleary.me/ubuntu-20-04-virtual-machine-with-hyper-v)
+- [Ad Blocking, Local Recursive DNS Server with Pi-Hole and Unbound](https://www.iancleary.me/ad-blocking-local-recursive-dns-server-with-pi-hole-and-unbound)
 <!-- BLOG-POST-LIST:END -->
